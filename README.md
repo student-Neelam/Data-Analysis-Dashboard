@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This project showcases an end-to-end Excel-based data analysis and dashboarding solution built for a fictional retail store, "Vrinda Store". It focuses on cleaning raw transactional data, performing insightful analysis using pivot tables, and designing an interactive dashboard to enable better business decision-making.
+#Vrinda Store Data Analysis Using MS Excel
+##Project Objective:
+Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+

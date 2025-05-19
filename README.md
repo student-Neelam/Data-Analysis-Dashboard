@@ -18,9 +18,13 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ## Process
 •	Data Cleaning, remove empty values.
+
 • Create Pivot Tables: Insert → PivotTable → Select table/range → New Worksheet.
+
 • Use slicers for filtering (Insert → Slicer).
+
 • Add charts: column, bar, line, pie, etc. linked to PivotTables.
+
 
 ## Dashboard
 ![Vrinda Dashboard ](https://github.com/user-attachments/assets/98ac4d40-66b5-4c7c-8720-847359d5eb69)

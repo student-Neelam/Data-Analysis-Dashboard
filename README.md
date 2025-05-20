@@ -23,7 +23,7 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 •	Dashboard Interaction <a href="https://github.com/student-Neelam/Data-Analysis-Dashboard/blob/main/Vrinda%20Dashboard%20.png">View Dashboard</a>
 
-## Process
+## Process:
 •	Data Cleaning, remove empty values.
 
 • Create Pivot Tables: Insert → PivotTable → Select table/range → New Worksheet.
